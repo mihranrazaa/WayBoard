@@ -16,6 +16,6 @@ created_at: "2025-06-13"
 - I will start by creating the layout of the keyboard on the website.
 - Completed the layout :
 
-![Screenshot](Assets/layout.jpg)
+![Screenshot](Assets/layout.png)
 
 
