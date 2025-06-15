@@ -20,7 +20,7 @@ created_at: "2025-06-13"
 
 - I rechanged the layout to the default us based qwerty type, because i personally didn.t liked the previous one that much.
 
-![Screenshot](newla/layout.png)
+![Screenshot](Assets/newla.png)
 
 - I also found the symbols and footprint for my MCU that will RP2040 plus and Cherry MX brown Switches, i started working on the schematics only connected the switches and diodes till now 
 
