@@ -59,7 +59,7 @@ Other than this you also need M3 srews but i didn't included them as i already h
 ## Extra Stuff
 
 ### Gratitude
-- Thanks to Hackclub for making me do this brilliant project, More coming :).
+- Thanks to Hackclub for making me do this project, More coming :).
 - Thanks to my potato for helping me till the end.
 - Thanks to myself for completing the project and not getting distracted with another project.
 - And Thank you for Reading?
