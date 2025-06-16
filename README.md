@@ -65,10 +65,12 @@ Other than this you also need M3 srews but i didn't included them as i already h
 - And Thank you for Reading?
 
 ### Inspiration
-Going to Undercity!!
+**Going to Undercity!!**
 
 ### Challanging
 The only challanging part was designing the PCB and Schematics, first i was overthinking for what MCU should i choose then i took some time on footprints and symbols..
+
+---
 
 ## End
 Check my [BLOG](https://mihranrazaa.pages.dev/)
