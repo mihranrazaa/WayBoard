@@ -80,5 +80,9 @@ At the end: **8+ hrs**
 - Completed V1
 
 - Ay Pull request got accepted! Time to submit I will do it after I get home... 
-
+- Alright time to submit filling the form and submitting on slack too...
 At the end:**3hrs**
+
+- Improved the design of the port:
+
+![Screenshot](Assets/nport.png)
