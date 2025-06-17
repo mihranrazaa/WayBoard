@@ -28,6 +28,8 @@ The files for the PCB and Schematics are available in the PCB folder and gerber 
 
 ![Screenshot](Assets/pcbbody.png)
 
+![Screenshot](Assets/3dpcb.png)
+
 ### 3D Case (CAD)
 
 The step files for the keyboard are available in the CAD folder and also in the Production Folder.
@@ -40,6 +42,7 @@ The step files for the keyboard are available in the CAD folder and also in the 
 
 ![Screenshot](Assets/parts2.png)
 
+Can't add a combine image of pcb with components my laptop can't handle all that together..
 Other than this you just have to purchase the Components given below and assemble them.
 
 ---

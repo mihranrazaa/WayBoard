@@ -86,3 +86,12 @@ At the end:**3hrs**
 - Improved the design of the port:
 
 ![Screenshot](Assets/nport.png)
+
+---
+
+**JULY 17**
+
+- submitted the project yesterday, fixed two pcb issues also added a image of pcb with 3d model components i had to add all the 3d components in the footprint quite time consuming but makes the pcb look good, also i didn't find the 3d model for rp2040 plus but added pico there because they both have same pinout...
+- Also i can't add a combined images with the 3d component my laptop can't handle that much and is working like a picture animation basically lot of lagging so yeah i just added the pcb image in the readme file, should i add this info in the readme too?
+- anyways that's all i did right now took somewhere around 40-50 mins ....
+
