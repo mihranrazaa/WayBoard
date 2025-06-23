@@ -95,3 +95,12 @@ At the end:**3hrs**
 - Also i can't add a combined images with the 3d component my laptop can't handle that much and is working like a picture animation basically lot of lagging so yeah i just added the pcb image in the readme file, should i add this info in the readme too?
 - anyways that's all i did right now took somewhere around 40-50 mins ....
 
+---
+
+**JUNE23**
+
+- so my project got rejected yeah and got a reply the cad is too basic which is the idea of the minimal keyboard i think, well still i did some more touch up, added a wedge structure for more comfortable usage added a big wayboard name to improve asthetics..
+
+![Screenshot](Assets/ncad.png)
+
+![Screenshot](Assets/ncad2.png)

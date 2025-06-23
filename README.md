@@ -10,6 +10,13 @@ The keyboard is designed to be sleek and plane it has RP2040 plus as the MCU and
 ---
 
 ## Images
+
+![Screenshot](Assets/ncad.png)
+
+![Screenshot](Assets/ncad2.png)
+
+**THE ABOVE IMAGES ARE THE LATEST ITERATION OF CAD**
+
 ![Screenshot](Assets/fk.png)
 
 ![Screenshot](Assets/fk1.png)
