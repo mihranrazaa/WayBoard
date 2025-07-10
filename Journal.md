@@ -104,3 +104,22 @@ At the end:**3hrs**
 ![Screenshot](Assets/ncad.png)
 
 ![Screenshot](Assets/ncad2.png)
+
+---
+
+**JULY 9-10**
+
+- SO i Improved the CAD, firstly i completely created a new base, added grooved lines in sides and front, i also added the name, grooved lines looks goood ngl, i was thinking of adding the grooved lines in the front side too but i will not look that good so i scrapped that plan, also forgot to mention the base is wedged, for comfortable typing, then i was thinking of again making that hole for handle but it wasn't looking that good with this base so i removed it and added verison and name, so i kept the top almost same but then i thought of adding the logo of open source hardware so i did that, i revamped the usb c port too previously it was just a big gap now i have added a proper design and hole for it, i think it looks good, now it's upto reviewers, tho i will update it whenever i get other idea and time my exams are almost here ahhh, anyways i will be adding it for re-review now... and yeah here are some images :
+
+![Screenshot](Assets/rcad.png)
+
+![Screenshot](Assets/rcad3.png)
+
+![Screenshot](Assets/rcad5.png)
+
+![Screenshot](Assets/rcad2.png)
+
+- BYEEEE :)
+
+----
+
